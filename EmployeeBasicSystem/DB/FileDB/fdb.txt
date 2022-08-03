@@ -1,0 +1,2 @@
+EmpModel [address=, company=ZENSAR, dob=EGF, exp=1.0, id=92fe63ac-9be6-49de-afd6-77b6b9a8f12f, name=VED, phone_no=XYZ, role=TRAINEE, salary=1000.0]
+EmpModel [address=, company=ZENSAR, dob=QWR, exp=1.0, id=a2992f1c-b701-4b26-9ccb-83b9ed3a9ded, name=VED, phone_no=XYZ, role=TRAINEE, salary=1000.0]
